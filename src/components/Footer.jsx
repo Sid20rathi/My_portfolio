@@ -16,6 +16,7 @@ const Footer = () => {
                     {link.icon}
                 </a>
             ))}
+            Siddhant02rathi@gmail.com
         </div>
         <p></p>
     </div>
