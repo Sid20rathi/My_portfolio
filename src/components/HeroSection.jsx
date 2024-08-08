@@ -28,7 +28,7 @@ const HeroSection = () => {
   return (
     <>
     <div className="relative flex min-h-screen items-end justify-center" id="her0">
-        <motion.img src ={profilePic} alt={Profiler.name} className='absolute inset-0 z1-10 h-full w-full object-cover '
+        <motion.img src ={profilePic} alt={PROFILE.name} className='absolute inset-0 z1-10 h-full w-full object-cover '
         initial={{opacity:0}}
         animate={{opacity:1}}
         transition={{duration:1}}/>
