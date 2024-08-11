@@ -50,25 +50,29 @@ export const PROJECTS = [
   {
     title: "Apple website",
     subtitle:
-      "Redesigned the Apple website page for iphone 15",
+      "Redeigned the apple website page for iphone 15",
     image: image1,
+    Link:"https://iphone-15-sigma.vercel.app/"
   },
   {
     title: "Blogging website",
     subtitle:
       "This project is a comprehensive and feature-rich platform for creating, managing, and reading blogs. ",
     image: image2,
+    Link:"#"
   },
   {
     title: "Travel website",
     subtitle: "It is a comprehensive tool designed to help users effortlessly plan their trips. Whether you're organizing a weekend getaway or a long vacation",
     image: image3,
+    Link:"https://trailblazers-hazel.vercel.app/"
   },
   {
     title: "E-Wallet",
     subtitle:
       " the ultimate e-wallet solution. Seamlessly designed for the modern user, TeraWallet offers a secure, convenient, and efficient way to handle all your financial transactions.",
     image: image4,
+    Link:"#"
   },
   
 ];
