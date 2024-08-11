@@ -45,7 +45,7 @@ const Projects = () => {
                 variants={itemVariants}
                 
                 key={index} className='opacity-0'>
-                    <Card image={project.image} title={project.title} subtitle={project.subtitle} link="#" />
+                    <Card image={project.image} title={project.title} subtitle={project.subtitle} link={project.Link} />
                 </motion.div>
             ))}
         </motion.div>
