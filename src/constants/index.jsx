@@ -24,6 +24,7 @@ import image1 from "../assets/project1.png";
 import image2 from "../assets/project2.jpg";
 import image3 from "../assets/project3.png";
 import image4 from "../assets/project4.jpg";
+import image5 from "../assets/project5.png";
 
 
 
@@ -47,6 +48,13 @@ export const ABOUT = {
 };
 
 export const PROJECTS = [
+  {
+    title: "AutoVate",
+    subtitle:
+      "Automate Actions with WebHooks",
+    image: image5,
+    Link:"https://github.com/Sid20rathi/AutoVate"
+  },
   {
     title: "Apple website",
     subtitle:
