@@ -23,7 +23,7 @@ import { FaAws } from "react-icons/fa";
 import image1 from "../assets/project1.png";
 import image2 from "../assets/project2.jpg";
 import image3 from "../assets/project3.png";
-import image4 from "../assets/project4.jpg";
+import image4 from "../assets/project4.png";
 import image5 from "../assets/project5.png";
 import image6 from "../assets/project6.png";
 
