@@ -26,6 +26,7 @@ import image3 from "../assets/project3.png";
 import image4 from "../assets/project4.png";
 import image5 from "../assets/project5.png";
 import image6 from "../assets/project6.png";
+import image7 from "../assets/project7.png";
 
 
 
@@ -49,6 +50,13 @@ export const ABOUT = {
 };
 
 export const PROJECTS = [
+  {
+    title: "QueryMentor",
+    subtitle:
+      "Empowering your interview journey with AI-driven insights.",
+    image: image7,
+    Link:"https://querymentor.vercel.app"
+  },
   {
     title: "HiveMind",
     subtitle:
