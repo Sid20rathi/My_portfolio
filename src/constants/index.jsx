@@ -74,7 +74,7 @@ export const PROJECTS = [
   {
     title: "Apple website",
     subtitle:
-      "Redeigned the apple website page for iphone 15",
+      "Redesigned the apple website page for iphone 15",
     image: image1,
     Link:"https://iphone-15-sigma.vercel.app/"
   },
